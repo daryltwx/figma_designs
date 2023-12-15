@@ -4,7 +4,7 @@ Links to figma designs
 ---
 
 Web Design:
-https://www.figma.com/file/RNM5qZ8EBaXFNevA0nz0XM/ST%26ME?type=design&node-id=0%3A1&mode=design&t=kFjstJkyxnUfLpy5-1
+[https://www.figma.com/file/RNM5qZ8EBaXFNevA0nz0XM/ST%26ME?type=design&node-id=0%3A1&mode=design&t=kFjstJkyxnUfLpy5-1](https://www.figma.com/proto/RNM5qZ8EBaXFNevA0nz0XM/ST%26ME?type=design&node-id=1-4&t=S2yu99MQmFHwwXkl-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A4&show-proto-sidebar=1)
 
 ---
 (WORK)
